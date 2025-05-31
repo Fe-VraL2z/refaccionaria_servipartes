@@ -1,4 +1,5 @@
 <?php
+// contraseña Minerva Martínez Neri MMNdaa
 session_start();
 $max_intentos = 3;
 $tiempo_bloqueo = 30; // en segundos
